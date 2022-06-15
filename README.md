@@ -1,3 +1,7 @@
+Hi! 👋
+I'm Douglas Deodanes
+a Designer, Creator & IT Consultant
+
 - 👋 Hi, I’m @duadev
 - 👀 I’m interested in learning code.
 - 🌱 I’m currently learning next Js, React Js, Vite Js, Sql Server, Mysql Server, .NET, c#, php , ...
